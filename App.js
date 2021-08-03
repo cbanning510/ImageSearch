@@ -148,6 +148,8 @@ const styles = StyleSheet.create({
     width: 150,
     margin: 20,
     borderRadius: 5,
+    borderWidth: 1,
+    borderColor: 'lightgrey',
   },
   modalImage: {
     height: 300,
